@@ -1,2 +1,3 @@
-26/01/26
-Fundamentos de Redes de Computadores
+26/01/26 - Projeto de Bloco: Arquitetura de Computadores, Redes e Cibersegurança
+
+• Dúvidas no geral
