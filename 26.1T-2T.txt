@@ -9,3 +9,9 @@
     Horas complementares;
     Método de ensino e avaliações.
 • Perguntas e respostas
+
+28/01/26 - Arquitetura de Computadores e Sistemas Operacionais
+
+• Orientação acadêmica (objetividade)
+• Explicação sobre certificados (cisco)
+• Introdução a conceitos básicos de hardware
