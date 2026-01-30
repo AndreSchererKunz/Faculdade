@@ -15,3 +15,9 @@
 • Orientação acadêmica (objetividade)
 • Explicação sobre certificados (cisco)
 • Introdução a conceitos básicos de hardware
+
+29/01/26 - Arquitetura de Computadores e Sistemas Operacionais
+
+• Introdução ao conceito de sistema binário e processamento
+• História por trás dos Instrumentos de Cálculos e as gerações dos computadores
+• Debate sobre cuidados que se deve ter ao mexer nos componentes
