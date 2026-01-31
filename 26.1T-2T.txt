@@ -21,3 +21,14 @@
 • Introdução ao conceito de sistema binário e processamento
 • História por trás dos Instrumentos de Cálculos e as gerações dos computadores
 • Debate sobre cuidados que se deve ter ao mexer nos componentes
+
+30/01/25 - Fundamentos de Redes de Computadores
+
+• Introdução a redes
+• Impacto e dependência as redes
+• Origem da internet
+• Tipos de redes / transmissão de dados
+• Largura de banda
+• Componentes de uma rede
+• Clientes e servidores
+• Conceito e tipos de topologia
