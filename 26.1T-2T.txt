@@ -32,3 +32,7 @@
 • Componentes de uma rede
 • Clientes e servidores
 • Conceito e tipos de topologia
+
+31/01/25 - Estudos (Arquitetura de Computadores e Sistemas Operacionais)
+
+• Início de tarefa (Manutenção de hardware)
