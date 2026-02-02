@@ -22,7 +22,7 @@
 • História por trás dos Instrumentos de Cálculos e as gerações dos computadores
 • Debate sobre cuidados que se deve ter ao mexer nos componentes
 
-30/01/25 - Fundamentos de Redes de Computadores
+30/01/26 - Fundamentos de Redes de Computadores
 
 • Introdução a redes
 • Impacto e dependência as redes
@@ -33,6 +33,12 @@
 • Clientes e servidores
 • Conceito e tipos de topologia
 
-31/01/25 - Estudos (Arquitetura de Computadores e Sistemas Operacionais)
+31/01/26 - Estudos (Arquitetura de Computadores e Sistemas Operacionais)
 
 • Início de tarefa (Manutenção de hardware)
+
+01/02/26 - Estudos (Arquitetura de Computadores e Sistemas Operacionais / Fundamentos de Redes de Computadores)
+
+• Finalização de tarefa (Manutenção de hardware)
+• Fundamentos do Hardware do Computador - Módulo 1
+• Conceitos Básicos de Redes - Módulo 1 e 2
