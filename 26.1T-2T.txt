@@ -42,3 +42,9 @@
 • Finalização de tarefa (Manutenção de hardware)
 • Fundamentos do Hardware do Computador - Módulo 1
 • Conceitos Básicos de Redes - Módulo 1 e 2
+
+02/02/26 - Fundamentos de Redes de Computadores
+
+• VPN
+• Modelo OSI
+• Modelo TCP/IP
