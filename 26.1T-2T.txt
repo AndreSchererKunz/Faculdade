@@ -68,3 +68,7 @@ Azure students
 06/02/26 - Fundamentos de Redes de Computadores
 
 • Equipamentos nas Redes
+
+07/02/26 - Estudos (Arquitetura de Computadores e Sistemas Operacionais)
+
+• TP1 Finalizado
