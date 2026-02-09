@@ -72,3 +72,7 @@ Azure students
 07/02/26 - Estudos (Arquitetura de Computadores e Sistemas Operacionais)
 
 • TP1 Finalizado
+
+08/02/26 - Estudos (Fundamentos de Redes de Computadores)
+
+• TP1 Finalizado
