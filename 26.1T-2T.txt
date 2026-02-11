@@ -76,3 +76,10 @@ Azure students
 08/02/26 - Estudos (Fundamentos de Redes de Computadores)
 
 • TP1 Finalizado
+
+09/02/26 - Fundamentos de Redes de Computadores|
+
+• IPV4 - IPV6
+• Pacotes
+• Encapsulamento
+• Unicast - Broadcast - Multicast
