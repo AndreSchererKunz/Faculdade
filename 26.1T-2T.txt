@@ -87,3 +87,11 @@ Azure students
 10/02/26 - Prática Hardware/Software
 
 • Instalação de SSD SATA com pendrive bootavel
+
+11/02/26 - Arquitetura de Computadores e Sistemas Operacionais
+
+• Estrutura do Computador
+
+12/02/26 - Projeto de Bloco
+
+• Virtualização
