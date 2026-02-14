@@ -95,3 +95,11 @@ Azure students
 12/02/26 - Projeto de Bloco
 
 • Virtualização
+
+13/02/26 - Fundamentos de Redes de Computadores
+
+• DHCP
+• Gateway
+• NAT
+• ARP
+• Packet Tracer
