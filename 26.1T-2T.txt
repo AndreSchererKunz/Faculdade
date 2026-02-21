@@ -118,3 +118,11 @@ Azure students
 18/02/26 - Estudos NetAcad
 
 • Networking Basics
+
+19/02/26 - RT
+
+• RT
+
+20/02/26 - Fundamentos de Redes de Computadores
+
+• LANs e Switching
