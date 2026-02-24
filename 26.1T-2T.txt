@@ -126,3 +126,11 @@ Azure students
 20/02/26 - Fundamentos de Redes de Computadores
 
 • LANs e Switching
+
+22/02/26 - Estudos NetAcad
+
+• Networking Basics
+
+23/02/26 - Estudos (Arquitetura de Computadores e Sistemas Operacionais)
+
+• TP2 Iniciado
