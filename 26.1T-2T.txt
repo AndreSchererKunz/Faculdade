@@ -143,3 +143,10 @@ Azure students
 25/02/26 Arquitetura de Computadores e Sistemas Operacionais
 
 • Windows
+
+26/02/26 Arquitetura de Computadores e Sistemas Operacionais
+
+• Windows
+• HAL
+• NTFS
+• Serviços/Processos
