@@ -150,3 +150,8 @@ Azure students
 • HAL
 • NTFS
 • Serviços/Processos
+
+27/02/26 - Fundamentos de Redes de Computadores
+
+• Encaminhamento
+• Roteamento
