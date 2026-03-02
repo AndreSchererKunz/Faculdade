@@ -155,3 +155,14 @@ Azure students
 
 • Encaminhamento
 • Roteamento
+
+28/02/26 - Estudos (Fundamentos de Redes de Computadores)
+
+• Revisão de conteúdo
+• TP2 Finalizado
+
+01/03/26 - Estudos (ACSO - PCC - PB)
+
+• TP2 Finalizado (Arquitetura de Computadores e Sistemas Operacionais)
+• TP2 Finalizado (Planejamento de Curso e Carreira)
+• TP1 Finalizado (Projeto de Bloco: Arquitetura de Computadores, Redes e Cibersegurança)
