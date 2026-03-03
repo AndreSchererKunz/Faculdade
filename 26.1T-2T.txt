@@ -166,3 +166,10 @@ Azure students
 • TP2 Finalizado (Arquitetura de Computadores e Sistemas Operacionais)
 • TP2 Finalizado (Planejamento de Curso e Carreira)
 • TP1 Finalizado (Projeto de Bloco: Arquitetura de Computadores, Redes e Cibersegurança)
+
+02/03/26 - Fundamentos de Redes de Computadores
+
+• Camada de transporte
+• TCP
+• UDP
+• Comandos
