@@ -173,3 +173,7 @@ Azure students
 • TCP
 • UDP
 • Comandos
+
+04/03/26 Arquitetura de Computadores e Sistemas Operacionais
+
+• Sistemas operacionais
