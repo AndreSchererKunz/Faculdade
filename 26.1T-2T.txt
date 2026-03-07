@@ -182,3 +182,7 @@ Azure students
 
 • Baterias
 • Revisão de conteúdo
+
+06/03/26 - Fundamentos de Redes de Computadores
+
+• DNS
