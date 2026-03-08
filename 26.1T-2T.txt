@@ -186,3 +186,19 @@ Azure students
 06/03/26 - Fundamentos de Redes de Computadores
 
 • DNS
+
+07/03/26 - Estudos NetAcad (Networking Basics)
+
+• Módulo 6: Mídia de rede
+• Módulo 7: A Camada de Acesso
+• Exame de ponto de verificação: acesso à rede
+• Módulo 8: Protocolo de Internet (Internet Protocol - IP)
+• Módulo 9: IPv4 e segmentação de rede
+• Módulo 10: Formatos e regras de endereçamento IPv6
+
+08/03/26 - Estudos NetAcad (Networking Basics)
+
+• Módulo 11: endereçamento dinâmico com DHCP
+• Exame de ponto de verificação: o protocolo da Internet
+• Módulo 12: Gateways para outras redes
+• Módulo 13: O Processo de ARP
