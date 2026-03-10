@@ -202,3 +202,7 @@ Azure students
 • Exame de ponto de verificação: o protocolo da Internet
 • Módulo 12: Gateways para outras redes
 • Módulo 13: O Processo de ARP
+
+09/03/26 - Fundamentos de Redes de Computadores
+
+• VLAN
