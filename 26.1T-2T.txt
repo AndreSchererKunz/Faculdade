@@ -206,3 +206,10 @@ Azure students
 09/03/26 - Fundamentos de Redes de Computadores
 
 • VLAN
+
+10/03/26 - Estudos NetAcad (Networking Basics) /Aula (Projeto de Bloco: Arquitetura de Computadores, Redes e Cibersegurança / Planejamento de Curso e Carreira)
+
+• Diversidade
+• Gatilhos
+• Revisão DHCP/DNS
+• Módulo 14: Roteamento entre redes
