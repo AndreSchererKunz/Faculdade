@@ -213,3 +213,8 @@ Azure students
 • Gatilhos
 • Revisão DHCP/DNS
 • Módulo 14: Roteamento entre redes
+
+11/03/26 Arquitetura de Computadores e Sistemas Operacionais
+
+• Registros
+• Dúvidas
