@@ -218,3 +218,10 @@ Azure students
 
 • Registros
 • Dúvidas
+
+12/03/26 Arquitetura de Computadores e Sistemas Operacionais
+
+• Eletivas
+• Swap
+• Gerenciamento de Discos
+• RAID
