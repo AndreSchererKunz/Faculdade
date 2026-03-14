@@ -225,3 +225,8 @@ Azure students
 • Swap
 • Gerenciamento de Discos
 • RAID
+
+13/03/26 - Estudos NetAcad (Networking Basics) / Aula (Fundamentos de Redes de Computadores)
+
+• Exame de ponto de verificação: comunicação entre redes
+• Sistemas de numeração
