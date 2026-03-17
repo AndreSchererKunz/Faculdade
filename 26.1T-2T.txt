@@ -240,3 +240,8 @@ Azure students
 
 • TP3 Finalizado (Arquitetura de Computadores e Sistemas Operacionais)
 • TP3 Finalizado (Fundamentos de Redes de Computadores)
+
+16/03/26 - Fundamentos de Redes de Computadores
+
+• Tarefa de Conversão Numérica Finalizada
+• Subnetting
