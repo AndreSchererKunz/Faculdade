@@ -259,3 +259,7 @@ Azure students
 19/03/26 Arquitetura de Computadores e Sistemas Operacionais
 
 • Dispositivos móveis
+
+20/03/26 - Fundamentos de Redes de Computadores
+
+• Subnetting - Prática
