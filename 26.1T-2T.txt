@@ -263,3 +263,20 @@ Azure students
 20/03/26 - Fundamentos de Redes de Computadores
 
 • Subnetting - Prática
+
+21/03/26 - Estudos
+
+• AT Iniciado (Arquitetura de Computadores e Sistemas Operacionais)
+
+22/03/26 - Estudos
+
+• AT Finalizado {Tirar dúvida antes da entrega} (Arquitetura de Computadores e Sistemas Operacionais)
+• AT Iniciado (Fundamentos de Redes de Computadores)
+• AT Iniciado (Planejamento de Curso e Carreira)
+
+
+23/03/26 - Estudos / Aula - Fundamentos de Redes de Computadores
+
+• AT Finalizado {Confirmar entrega após aula de terça} (Planejamento de Curso e Carreira)
+• Configuração de Dispositivos (Conteúdo restante para finalizar o AT)
+• Lab
