@@ -293,3 +293,8 @@ Azure students
 26/03/26 Estudos / Aula (extra)
 
 • ATs DR1/DR2 - Capa e Sumário - Formatação para ABNT2
+
+27/03/26 - Estudos / Aula - Fundamentos de Redes de Computadores
+
+• ATs DR1/DR2 - Organização ABNT2 e evidências
+• Endereçamento - Subnetting
