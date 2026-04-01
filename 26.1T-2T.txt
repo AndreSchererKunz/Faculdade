@@ -312,3 +312,9 @@ Azure students
 
 • Estudo de caso
 • TP Finalizado (PB)
+
+31/03/26 - Estudos / Aula - Planejamento de Curso e Carreira
+
+• Módulo 15: TCP e UDP
+• Módulo 16: Serviços da Camada de Aplicação
+• Apresentação pessoal
