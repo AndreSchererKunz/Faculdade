@@ -336,3 +336,13 @@ Azure students
 13/04/26 Fundamentos de Cibersegurança
 
 • Continuação Nuvem (PB)
+
+14/04/26 Fluência em IA / Redes de Computadores
+
+• Inteligência Artificial
+• Aprendizado de Máquina
+• Aprendizagem Profunda
+• IA Generativa
+• Estatística vs Compreensão
+
+• Tipos de cabos
