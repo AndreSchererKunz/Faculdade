@@ -346,3 +346,9 @@ Azure students
 • Estatística vs Compreensão
 
 • Tipos de cabos
+
+15/04/26 Estudos / PB
+
+• Módulo 17: Utilitários de teste de rede
+• Exame de ponto de verificação: protocolos para tarefas específicas
+• Exame Final Conceitos Básicos de Redes (Início)
