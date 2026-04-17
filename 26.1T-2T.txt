@@ -352,3 +352,8 @@ Azure students
 • Módulo 17: Utilitários de teste de rede
 • Exame de ponto de verificação: protocolos para tarefas específicas
 • Exame Final Conceitos Básicos de Redes (Início)
+
+16/04/26 Redes de Computadores
+
+• Cabos Submarinos
+• ---
