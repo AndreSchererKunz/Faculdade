@@ -356,4 +356,12 @@ Azure students
 16/04/26 Redes de Computadores
 
 • Cabos Submarinos
-• ---
+• Métodos de Controle de Acesso
+• CSMACD - CSMACA
+
+17-18-19 ---
+
+20/04/2026 Fundamentos de Cibersegurança
+
+• Identidade Online/Offline
+• Valor dos dados
