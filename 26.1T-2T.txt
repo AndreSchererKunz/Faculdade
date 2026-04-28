@@ -390,3 +390,8 @@ Azure students
 26/04/2026 Estudos
 
 • TP1 (Fundamentos de Cibersegurança)
+
+27/04/2026 Fundamentos de Cibersegurança
+
+• M1 - M2
+• Ataques, Conceitos e Técnicas
