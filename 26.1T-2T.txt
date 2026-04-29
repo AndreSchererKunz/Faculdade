@@ -395,3 +395,11 @@ Azure students
 
 • M1 - M2
 • Ataques, Conceitos e Técnicas
+
+28/04/26 Fluência em IA / Redes de Computadores
+
+• Aprendizado de Máquina
+• Tokens
+
+• VLSM
+• NAT
