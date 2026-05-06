@@ -414,3 +414,15 @@ Azure students
 
 • Eng. Social
 • Ameaças
+
+05/05/26 Fluência em IA / Redes de Computadores
+
+• Probabilidade
+• Temperatura de criatividade
+
+• IPV6
+• Subnetting
+• Unicast
+• GUA
+• LLA
+• Lab
