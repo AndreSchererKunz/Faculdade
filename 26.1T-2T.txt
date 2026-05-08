@@ -430,3 +430,7 @@ Azure students
 06/05/26 Estudos / PB
 
 • NetAcad
+
+07/05/26 Redes de Computadores
+
+• Lab
