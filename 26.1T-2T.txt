@@ -434,3 +434,7 @@ Azure students
 07/05/26 Redes de Computadores
 
 • Lab
+
+08/05/26 Fundamentos de Cibersegurança
+
+• Vulnerabilidades
