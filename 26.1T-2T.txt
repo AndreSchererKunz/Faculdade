@@ -438,3 +438,12 @@ Azure students
 08/05/26 Fundamentos de Cibersegurança
 
 • Vulnerabilidades
+
+09/05/26 Estudos
+
+• NetAcad (NB - Finalizado)
+• TP2 Iniciado (Redes de Computadores)
+
+10/05/26 Estudos
+
+• TP2 Continuação (Redes de Computadores) - (Rotas estáticas faltantes)
