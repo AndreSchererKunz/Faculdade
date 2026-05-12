@@ -447,3 +447,8 @@ Azure students
 10/05/26 Estudos
 
 • TP2 Continuação (Redes de Computadores) - (Rotas estáticas faltantes)
+
+11/05/26 Estudos / Fundamentos de Cibersegurança
+
+• Criptografia
+• TP2 Finalizado (Redes de Computadores)
