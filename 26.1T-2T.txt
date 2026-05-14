@@ -457,3 +457,11 @@ Azure students
 
 • ICMPv6
 • Lab
+
+13/05/26 Redes de Computadores
+
+• Switch 
+• Ethernet (Modulares/Configuração Fixa)
+• Gerenciável/Inteligente/Não Gerenciável
+• Switching store-and-forward/cut-through
+• Dinâmica em grupo
