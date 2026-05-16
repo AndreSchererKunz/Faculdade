@@ -465,3 +465,17 @@ Azure students
 • Gerenciável/Inteligente/Não Gerenciável
 • Switching store-and-forward/cut-through
 • Dinâmica em grupo
+
+14/05/26 Estudos / PB
+
+• TP2 Iniciado (Fundamentos de Cibersegurança)
+
+15/05/26 Estudos / Fluência em IA / Fundamentos de Cibersegurança
+
+• Ética e responsabilidade no uso da IA
+• Automação
+
+• Backup
+• Autenticação de Dois Fatores
+
+• TP2 Continuação (Fundamentos de Cibersegurança)
