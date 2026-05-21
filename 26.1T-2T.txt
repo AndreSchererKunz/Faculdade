@@ -487,3 +487,7 @@ Azure students
 19/05/26 Redes de Computadores
 
 • Solução de problemas de rede
+
+20/05/26 Estudos / PB
+
+• NetAcad (Noções básicas de sistemas operacionais)
