@@ -495,3 +495,9 @@ Azure students
 21/05/26 Redes de Computadores
 
 • Dinâmica em grupo (Solução de problemas de rede)
+
+22/05/26 Estudos / Fluência em IA / Fundamentos de Cibersegurança
+
+• Ética da IA
+
+• Ataques - Conceitos - Técnicas
