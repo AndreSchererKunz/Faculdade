@@ -513,3 +513,10 @@ Azure students
 25/05/26 Estudos / Fundamentos de Cibersegurança
 
 • TP3 Iniciado (Fundamentos de Cibersegurança)
+
+26/05/26 Fluência em IA / Redes de Computadores
+
+• Modelos de Prompt
+
+• Troubleshooting
+• Dinâmica em grupo (Troubleshooting Packet Tracer)
