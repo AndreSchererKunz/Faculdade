@@ -520,3 +520,11 @@ Azure students
 
 • Troubleshooting
 • Dinâmica em grupo (Troubleshooting Packet Tracer)
+
+27/05/26 Estudos (Redes de Computadores) / Fundamentos de Cibersegurança
+
+• Continuação (Troubleshooting Packet Tracer)
+• TP3 Continuação (Fundamentos de Cibersegurança) - (Trabalho a ser revisado pelo professor)
+
+• Detecção de ameaças
+• Restrições empresariais
