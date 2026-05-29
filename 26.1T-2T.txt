@@ -528,3 +528,7 @@ Azure students
 
 • Detecção de ameaças
 • Restrições empresariais
+
+28/05/26 Redes de Computadores
+
+• Troubleshooting Packet Tracer (Apresentação e correção)
