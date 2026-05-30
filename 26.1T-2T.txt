@@ -532,3 +532,8 @@ Azure students
 28/05/26 Redes de Computadores
 
 • Troubleshooting Packet Tracer (Apresentação e correção)
+
+29/05/26 Fundamentos de Cibersegurança
+
+• Trabalho Remoto (Vulnerabilidades e investimentos)
+• Pentest
