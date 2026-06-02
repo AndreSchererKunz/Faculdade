@@ -545,3 +545,8 @@ Azure students
 31/05/26 Estudos
 
 • TP3 Finalizado (Fundamentos de Cibersegurança) (Reformulado)
+
+01/06/26 Fundamentos de Cibersegurança
+
+• Pentest
+• Redução do impacto
