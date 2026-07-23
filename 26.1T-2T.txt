@@ -600,3 +600,10 @@ Azure students
 21/07/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
 
 • Fundamento do Desenvolvimento de Software
+
+22/07/26 Aula (Programação Web com JavaScript I)
+
+• Barreira da linguagem (Instruções precisas diferente da linguagem natural e flexível)
+• Algoritmo (Etapa por etapa = resultado)
+• JavaScript 
+• ECMAscript (Versões do JavaScript)
