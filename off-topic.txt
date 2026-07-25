@@ -79,3 +79,9 @@
 19/07/26 Profissional
 
 • Exercícios de Excell
+
+25/07/26 Estudos Complementares Faculdade
+
+• O'reilly Cap 1 (Sams Teach Yourself HTML, CSS, and JavaScript All in One) - (Understanding How the Web Works)
+• O'reilly Cap 2 (Sams Teach Yourself HTML, CSS, and JavaScript All in One) - (Structuring an HTML Document)
+• O'reilly Cap 1 (The HTML and CSS Workshop) - (Introduction to HTML and CSS)
