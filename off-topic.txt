@@ -82,6 +82,11 @@
 
 25/07/26 Estudos Complementares Faculdade
 
-• O'reilly Cap 1 (Sams Teach Yourself HTML, CSS, and JavaScript All in One) - (Understanding How the Web Works)
-• O'reilly Cap 2 (Sams Teach Yourself HTML, CSS, and JavaScript All in One) - (Structuring an HTML Document)
-• O'reilly Cap 1 (The HTML and CSS Workshop) - (Introduction to HTML and CSS)
+• O'reilly (Sams Teach Yourself HTML, CSS, and JavaScript All in One) - Cap 1 (Understanding How the Web Works)
+• O'reilly (Sams Teach Yourself HTML, CSS, and JavaScript All in One) - Cap 2 (Structuring an HTML Document)
+• O'reilly (The HTML and CSS Workshop) - Cap 1 (Introduction to HTML and CSS)
+
+26/07/26 Estudos Complementares Faculdade
+
+• O'reilly (Learn to Code With JavaScript) - Cap 1 (Press Start)
+• O'reilly (JavaScript from Beginner to Professional) - Cap 1 (Getting Started with JavaScript)
