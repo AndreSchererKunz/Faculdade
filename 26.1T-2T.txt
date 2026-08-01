@@ -645,3 +645,10 @@ Azure students
 
 • Explicação TP1
 • Tags
+
+31/07/26 Aula (Programação Web com JavaScript I)
+
+• Prettier
+• ESlint
+• Operações básicas
+• Unários
