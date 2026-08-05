@@ -666,3 +666,7 @@ Azure students
 • Tags semânticas (header,nva,footer)
 • CSS
 • Seletores
+
+04/08/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
+
+• HTML / CSS / JS
