@@ -670,3 +670,8 @@ Azure students
 04/08/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
 
 • HTML / CSS / JS
+
+05/08/26 Estudos (Programação Web com JavaScript I)
+
+• Boas práticas JS
+• ...
