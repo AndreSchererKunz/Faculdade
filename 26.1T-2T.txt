@@ -680,3 +680,8 @@ Azure students
 
 • Regras de importância
 • Hierarquia
+
+07/08/26 Estudos (Programação Web com JavaScript I)
+
+• Variáveis
+• String, number, boolean
