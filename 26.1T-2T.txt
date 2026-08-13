@@ -694,3 +694,13 @@ Azure students
 
 • Variáveis
 • Funções
+
+12/08/26 Aula (Programação Web com JavaScript I)
+
+• String
+• Number
+• BigInt
+• Boolean
+• Null
+• Undefined
+• Symbol
