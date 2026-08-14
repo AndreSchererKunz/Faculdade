@@ -704,3 +704,19 @@ Azure students
 • Null
 • Undefined
 • Symbol
+
+13/08/26 Aula (Programação Web com HTML5 e CSS3)
+
+• ul
+• ol
+• li
+• dl
+• dt
+• dd
+• datalist
+• label
+• input
+• details
+• summary
+• a
+• a (#id)
