@@ -719,4 +719,11 @@ Azure students
 • details
 • summary
 • a
-• a (#id)
+
+14/08/26 Aula (Programação Web com JavaScript I)
+
+• Operações
+• Numbers
+• parseInt
+• parseFloat
+• Leitura TP2
