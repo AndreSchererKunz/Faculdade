@@ -727,3 +727,8 @@ Azure students
 • parseInt
 • parseFloat
 • Leitura TP2
+
+15/08/26 Estudos
+
+• TP 2 (Finalizado) (Programação Web com JavaScript I)
+• TP 1 (Finalizado) (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
