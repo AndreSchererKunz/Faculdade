@@ -736,3 +736,7 @@ Azure students
 17/08/26 Aula (Programação Web com HTML5 e CSS3)
 
 • Cores
+
+18/08/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
+
+• Web API
