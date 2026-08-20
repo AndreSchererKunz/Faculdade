@@ -740,3 +740,9 @@ Azure students
 18/08/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
 
 • Web API
+
+19/08/26 Aula (Programação Web com JavaScript I)
+
+• Boolean
+• If/Else
+• If ternário
