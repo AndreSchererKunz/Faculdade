@@ -663,7 +663,7 @@ Azure students
 
 03/08/26 Aula Programação Web com HTML5 e CSS
 
-• Tags semânticas (header,nva,footer)
+• Tags semânticas (header,nav,footer)
 • CSS
 • Seletores
 
@@ -754,3 +754,7 @@ Azure students
 21/08/26 Aula (Programação Web com JavaScript I)
 
 • Operadores Lógicos
+
+22/08/26 Estudos
+
+• TP 2 (Finalizado) (Programação Web com HTML5 e CSS3)
