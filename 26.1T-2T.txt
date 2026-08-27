@@ -766,3 +766,7 @@ Azure students
 25/08/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
 
 • Desenvolvimento de Projeto em conjunto
+
+26/08/26 Aula (Programação Web com JavaScript I)
+
+• Operadores Lógicos 2
