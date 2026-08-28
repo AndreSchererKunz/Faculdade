@@ -770,3 +770,18 @@ Azure students
 26/08/26 Aula (Programação Web com JavaScript I)
 
 • Operadores Lógicos 2
+
+27/08/26 Aula (Programação Web com HTML5 e CSS3)
+
+• Tabelas
+• table
+• caption
+• thead
+• tbody
+• tfoot
+• tr
+• td
+• colspan (atr)
+• small
+• nth-of-type (atr)
+• firth-child (atr)
