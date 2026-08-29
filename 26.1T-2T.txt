@@ -785,3 +785,10 @@ Azure students
 • small
 • nth-of-type (atr)
 • firth-child (atr)
+
+28/08/26 Aula (Programação Web com JavaScript I)
+
+• switch
+• case
+• break
+• TP3 Review
