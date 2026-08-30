@@ -781,6 +781,7 @@ Azure students
 • tfoot
 • tr
 • td
+• th
 • colspan (atr)
 • small
 • nth-of-type (atr)
@@ -792,3 +793,7 @@ Azure students
 • case
 • break
 • TP3 Review
+
+29/08/26 Estudos
+
+• TP 3 (Finalizado) (Programação Web com JavaScript I)
