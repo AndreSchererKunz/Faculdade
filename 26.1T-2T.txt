@@ -797,3 +797,7 @@ Azure students
 29/08/26 Estudos
 
 • TP 3 (Finalizado) (Programação Web com JavaScript I)
+
+30/08/26 Estudos
+
+• TP 3 (Finalizado) (Programação Web com HTML5 e CSS3)
