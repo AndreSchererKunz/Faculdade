@@ -809,3 +809,7 @@ Azure students
 01/09/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
 
 • Review Code
+
+02/09/26 Aula (Programação Web com JavaScript I)
+
+• Decisões
