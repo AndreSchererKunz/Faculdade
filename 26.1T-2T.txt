@@ -821,3 +821,7 @@ Azure students
 06/09/26 Estudos
 
 • AT (Finalizado) (Programação Web com JavaScript I)
+
+07/09/26 Estudos
+
+• AT (Iniciado) (Programação Web com HTML5 e CSS3)
