@@ -825,3 +825,8 @@ Azure students
 07/09/26 Estudos
 
 • AT (Iniciado) (Programação Web com HTML5 e CSS3)
+
+08/09/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
+
+• Funções
+• Revisão TP2
