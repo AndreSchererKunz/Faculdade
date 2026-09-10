@@ -106,3 +106,7 @@
 29/08/26 Estudos Complementares Faculdade
 
 • Curso Informática Básica (Instituto GINEAD AVA) - Finalizado
+
+10/09/26 Estudos Complementares Faculdade
+
+• Webinar (SQL Server 2025 com IA: RAG de ponta a ponta utilizando T-SQL)
