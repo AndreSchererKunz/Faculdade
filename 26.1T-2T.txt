@@ -846,3 +846,16 @@ Azure students
 • Callback
 • Document / Browser
 • Document -> HTML / Window -> History,Screen,Navigator,Location
+
+14/09/26 Aula (Programação Web com HTML5 e CSS3)
+
+--
+
+15/09/26 Aula (Projeto do Bloco: Fundamentos do Desenvolvimento de Software)
+
+• Análise de cenários
+
+16/09/26 Aula (Programação Web com JavaScript I)
+
+• Dates
+• Elementos
